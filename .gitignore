@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch / Ultralytics models & runs
+runs/
+*.pt
+*.onnx
+
+# OS
+.DS_Store
